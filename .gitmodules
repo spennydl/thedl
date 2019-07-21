@@ -1,0 +1,3 @@
+[submodule "spennydl.github.io"]
+	path = spennydl.github.io
+	url = git@github.com:spennydl/spennydl.github.io.git

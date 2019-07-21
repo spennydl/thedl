@@ -8,7 +8,7 @@ description = "Part 1 - wasm for the people"
 # If the section variable `sort_by` is set to `date`, then any page that lacks a `date`
 # will not be rendered.
 # Setting this overrides a date set in the filename.
-date = 2019-06-01
+date = 2019-07-20
 
 # The weight as defined in the Section page
 # If the section variable `sort_by` is set to `weight`, then any page that lacks a `weight`

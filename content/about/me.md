@@ -8,15 +8,12 @@ description = "Some info about the nerd behind the curtain"
 # If the section variable `sort_by` is set to `date`, then any page that lacks a `date`
 # will not be rendered.
 # Setting this overrides a date set in the filename.
-date = 2019-06-01
+date = 2019-07-20
 
 # The weight as defined in the Section page
 # If the section variable `sort_by` is set to `weight`, then any page that lacks a `weight`
 # will not be rendered.
 # weight = 0
-
-# A draft page will not be present in prev/next pagination
-# draft = false
 
 # If filled, it will use that slug instead of the filename to make up the URL
 # It will still use the section path though
